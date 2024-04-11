@@ -19,10 +19,10 @@
     "npm-registry-client": "8.6.x",
     "npmconf": "2.1.x",
     "optparse": "1.0.x",
-    "semver": "7.3.x",
+    "semver": "7.6.x",
     "slasp": "0.0.4",
     "spdx-license-ids": "3.0.x",
-    "tar": "6.1.x",
+    "tar": "7.0.x",
     "temp": "0.9.x"
   },
   "devDependencies": {
